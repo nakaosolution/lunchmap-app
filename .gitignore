@@ -1,0 +1,3 @@
+/myapp/local_setting.py
+*.pyc
+!/.idea
